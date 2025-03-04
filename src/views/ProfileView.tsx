@@ -27,10 +27,10 @@ export const ProfileView: React.FC = () => {
     streak: 15,
     totalPracticeTime: '32h 45m',
     badges: [
-      { id: 1, name: 'Early Adopter', icon: 'Award', date: 'Mar 15, 2025' },
-      { id: 2, name: '7-Day Streak', icon: 'Award', date: 'Mar 22, 2025' },
-      { id: 3, name: 'Quiz Master', icon: 'Award', date: 'Apr 5, 2025' },
-      { id: 4, name: 'Conversation Pro', icon: 'Award', date: 'Apr 18, 2025' },
+      { id: 1, name: 'Early Adopter', icon: 'Award', date: 'fev 15, 2025' },
+      { id: 2, name: '7-Day Streak', icon: 'Award', date: 'feb 22, 2025' },
+      { id: 3, name: 'Quiz Master', icon: 'Award', date: 'feb 5, 2025' },
+      { id: 4, name: 'Conversation Pro', icon: 'Award', date: 'feb 18, 2025' },
     ],
     stats: {
       accuracy: 87,
